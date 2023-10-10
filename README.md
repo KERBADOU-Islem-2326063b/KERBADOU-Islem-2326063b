@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a student in Aix-En-Provence studying Computer Science and I'm learning C++ and SQL for now.
+💬 Feel free on discord : kuimii
+
 <!--
 **KERBADOU-Islem-2326063b/KERBADOU-Islem-2326063b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
